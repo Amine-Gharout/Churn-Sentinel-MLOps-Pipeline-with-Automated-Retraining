@@ -1,6 +1,5 @@
 # 🚀 Churn Sentinel — MLOps Pipeline with Automated Retraining
 
-[![CI](https://github.com/VOTRE_USERNAME/churn-sentinel-mlops/actions/workflows/ci.yml/badge.svg)](https://github.com/VOTRE_USERNAME/churn-sentinel-mlops/actions)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
 [![MLflow](https://img.shields.io/badge/MLflow-2.x-blue)](https://mlflow.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green)](https://fastapi.tiangolo.com/)
