@@ -16,7 +16,6 @@ La plupart des projets de data science s'arrêtent au notebook. Un modèle qui a
 **Churn Sentinel** résout ce problème en traitant le **cycle de vie complet** d'un modèle :
 - De l'analyse des données à la mise en production.
 - Du monitoring de dérive au ré-entraînement automatisé.
-- Avec un **gate Champion/Challenger** qui empêche les régressions.
 
 ---
 
