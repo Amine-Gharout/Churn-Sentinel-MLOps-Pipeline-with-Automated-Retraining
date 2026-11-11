@@ -1,0 +1,2 @@
+DVC: data versioning
+Pandera: data validation template (pydantic for data)
