@@ -62,5 +62,5 @@ class TelcoSchema(pa.DataFrameModel):
         strict = True
 
 
-df = pd.read_csv('data/raw/full_data.csv')
+df = pd.read_csv('data/raw/telco_churn.csv')
 TelcoSchema.validate(df)

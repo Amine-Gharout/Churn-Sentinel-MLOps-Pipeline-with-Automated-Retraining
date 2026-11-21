@@ -1,5 +1,8 @@
 [core]
-    remote = gdrive_remote
+    remote = storage
 ['remote "gdrive_remote"']
     url = gdrive://1XPp1T4iBjCgW8Z_0qv1Efi8g-evv5Prn
     gdrive_acknowledge_abuse = true
+['remote "storage"']
+    url = s3://amine-dvc-store/dvcstore
+    endpointurl = https://<817a4419c785e18f104549592fe21cd8>.r2.cloudflarestorage.com
