@@ -3,4 +3,4 @@ outs:
   size: 977501
   isexec: true
   hash: md5
-  path: full_data.csv
+  path: telco_churn.csv
